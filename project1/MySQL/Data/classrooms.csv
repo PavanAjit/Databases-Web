@@ -1,0 +1,319 @@
+25PP,1113,12,Conference Room,,,P,COMM
+25PP,1127,12,Conference Room,,,P,COMM
+25PP,1618,12,Classroom,,,P,PHIL
+25PP,1642,12,Lab,,,P,PHIL
+25PP,2002,12,Lab,,,P,HIST
+25PP,2040,12,Lab,,,P,HIST
+25PP,2150,12,Seminar Classroom,,,P,HIST
+25PP,2325,12,Seminar Classroom,,,P,ENG
+25PP,2447,12,Seminar Classroom,,,P,ENG
+25PP,628,12,,,,P,PHYS
+25PP,806,12,Classroom,,,P,COMM
+25PP,932,12,Conference Room,,,P,COMM
+ADHOLD,106,56,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,,G,
+ADHOLD,107,56,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,,G,
+ADHOLD,12,55,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,,G,
+ADHOLD,2,56,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,,G,
+ADHOLD,202,56,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,,G,
+ADHOLD,203,30,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WT;,,G,
+ADHOLD,204,45,Chairs & Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,2,G,
+ADHOLD,205,30,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WT;,,G,
+ADHOLD,206,60,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,,G,
+ADHOLD,212,60,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,,G,
+ADHOLD,213,45,Chairs & Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,2,G,
+ADHOLD,214,60,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,,G,
+ADHOLD,223,60,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,,G,
+ADHOLD,224,45,Chairs & Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,2,G,
+ADHOLD,225,60,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,,G,
+ADHOLD,229,56,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,,G,
+ADHOLD,230,30,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WT;,,G,
+ADHOLD,231,45,Chairs & Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,2,G,
+ADHOLD,233,60,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,,G,
+ADHOLD,24,200,Fixed/Tiered Arm,IWS; LAC; VP; DC; BR; DVD; WT;,,G,
+ADHOLD,30,45,Chairs & Tables,IWS; LAC; VP; DC; BR; DVD; WT;,,G,
+ADHOLD,302,56,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,,G,
+ADHOLD,303,30,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WT;,,G,
+ADHOLD,304,45,Chairs & Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,2,G,
+ADHOLD,305,30,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WT;,,G,
+ADHOLD,306,59,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,,G,
+ADHOLD,31,55,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,,G,
+ADHOLD,312,60,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,,G,
+ADHOLD,313,45,Chairs & Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,2,G,
+ADHOLD,314,60,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,,G,
+ADHOLD,323,60,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,,G,
+ADHOLD,324,45,Chairs & Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,2,G,
+ADHOLD,325,60,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,,G,
+ADHOLD,329,56,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,,G,
+ADHOLD,330,30,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WT;,,G,
+ADHOLD,331,45,Chairs & Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,2,G,
+ADHOLD,332,30,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WT;,,G,
+ADHOLD,333,59,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,,G,
+ADHOLD,403,45,Chairs & Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,2,G,
+ADHOLD,404,60,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,,G,
+ADHOLD,406,45,Chairs & Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,2,G,
+ADHOLD,429,45,Chairs & Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,,G,
+ADHOLD,430,120,Fixed/Tiered Arm,IWS; LAC; VP; DC; BR; DVD; WT;,1,G,
+ADHOLD,431,60,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT; NP;,,G,
+ADHOLD,432,45,Chairs & Tables,IWS; LAC; VP; DC; BR; DVD; WT;,,G,
+ADHOLD,5,200,Fixed/Tablet Arm,IWS; LAC; VP; DC; BR; DVD; WT;,,G,
+ARTS,216,24,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+ARTS,217,49,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,1,G,
+ARTS,300,98,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WB; CB;,1,G,
+ARTS,311,30,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+ARTS,319,30,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+ARTS,320,20,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+ARTS,327,30,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+ARTS,330,30,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+ARTS,405,30,Classroom,,,P,GEOS
+CLSO,100,61,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+CLSO,101,66,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+CLSO,103,66,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+CLSO,104,66,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+CLSO,105,66,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+CLSO,106,66,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+CLSO,107,55,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+CLSO,200,35,Computer Station,IWS; LAC; VP; DC; BR; DVD; WB; SWS,,G,
+CLSO,201,35,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+CLSO,203,27,Computer Station,IWS; LAC; VP; DC; BR; DVD; WB; SWS,,G,
+CLSO,205,60,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+CLSO,206,60,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+CLSO,207,60,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+CLSO,208,25,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+CLSO,209,60,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+CLSO,210,27,Computer Station,IWS; LAC; VP; DC; DVD; VCR; WB; SWS,,G,
+CLSO,225,24,Computer Station,IWS; LAC; VP; DC; BR; DVD; WB; SWS,,G,
+CLSO,226,51,CETL Classroom,IWS; LAC; VP; DC; BR; DVD; WB; SWS,,G,
+CLSO,227,24,Computer Station,IWS; LAC; VP; DC; BR; DVD; WB; SWS,,G,
+CLSO,230,15,Chairs & Tables,LAC; VP; WB;,,G,
+CLSO,234,24,Lab,,,P,BIO
+CLSO,236,24,Lab,,,P,BIO
+CLSO,237,24,Lab,,,P,CHEM
+CLSO,243,24,Lab,,,P,CHEM
+CLSO,300,39,Computer Station,IWS; LAC; VP; DC; DVD; VCR; WB; SWS,,G,
+CLSO,301,35,Chairs & Tables,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+CLSO,303,27,Computer Classroom,SWS,,P,ENG
+CLSO,305,27,Computer Station,IWS; LAC; VP; DC; DVD; VCR; WB; SWS,!,G,
+CLSO,306,50,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+CLSO,307,24,Classroom,SWS,,P,COMM
+CLSO,308,25,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+CLSO,309,36,Chairs & Tables,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+CLSO,310,27,Computer Station,IWS; LAC; VP; DC; DVD; VCR; WB; SWS,,G,
+CLSO,325,39,Chairs & Tables,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+CLSO,326,39,Chairs & Tables,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+CLSO,327,65,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,1-Chem,G,
+CLSO,328,63,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+CLSO,330,15,Chairs & Tables,LAC; VP; WB;,,G,
+CLSO,334,24,Lab,,,P,BIO
+CLSO,336,24,Lab,,,P,BIO
+CLSO,337,24,Lab,,,P,CHEM
+CLSO,343,24,Lab,,,P,CHEM
+CLSO,400,48,Classroom,SWS,,P,CSC
+CLSO,406,25,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+CLSO,407,36,Chairs & Tables,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+CLSO,408,60,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+CLSO,409,36,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+CLSO,410,36,Chairs & Tables,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+CLSO,411,36,Chairs & Tables,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+CLSO,425,39,Chairs & Tables,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+CLSO,426,39,Chairs & Tables,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+CLSO,427,65,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+CLSO,428,63,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+CLSO,430,15,Chairs & Tables,LAC; PS; WB;,,G,
+CLSO,434,24,Lab,,,P,BIO
+CLSO,436,24,Lab,,,P,BIO
+CLSO,437,24,Lab,,,P,BIO
+CLSO,443,24,Lab,,,P,BIO
+CLSO,500,54,Classroom,,,P,PHYS
+CLSO,501,36,Chairs & Tables,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+CLSO,503,36,Chairs & Tables,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+CLSO,505,36,Chairs & Tables,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+CLSO,506,25,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+CLSO,507,36,Chairs & Tables,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+CLSO,508,36,Chairs & Tables,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+CLSO,509,36,Chairs & Tables,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+CLSO,510,36,Chairs & Tables,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+CLSO,525,39,Chairs & Tables,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+CLSO,526,39,Chairs & Tables,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+CLSO,527,39,Chairs & Tables,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+CLSO,528,63,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+CLSO,530,15,Chairs & Tables,LAC; VP; WB;,,G,
+CLSO,600,75,Fixed/Tiered Tables,IWS; LAC; VP; BR; DVD; WB;,,G,
+CLSO,608,206,Fixed/Tiered Tables,IWS; LAC; VP; BR; DVD; WB;,,G,
+CLSO,609,30,Fixed/Tiered Tables,IWS; LAC; VP; BR; DVD; WB;,,G,
+COE,180,30,Tablet Armchairs,IWS; LAC; VP; DC; DVD; WB;,3,G,
+COE,182,25,Chairs & Tables,IWS; LAC; VP; DC; DVD; WB;,3,G,
+COE,184,30,Tablet Armchairs,IWS; LAC; VP; DC; DVD; WB;,3,G,
+COMMON,101,200,Univ Commons MILE,SWS,,P,MATH
+LANGDL,105,24,Classroom,SWS,,P,COMM
+LANGDL,107,30,Tablet Armchairs,IWS; LAC; DC; DVD; WB; TV; TP;,,G,
+LANGDL,109,24,Classroom,SWS,,P,COMM
+LANGDL,115,20,Lab,,,P,COMM
+LANGDL,119,15,Lab,,,P,COMM
+LANGDL,127,40,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+LANGDL,200,118,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT;,,G,
+LANGDL,201,75,Tablet Armchairs,IWS; LAC; VP; DVD; VCR; WB;,,G,
+LANGDL,203,75,Tablet Armchairs,IWS; LAC; VP; DVD; VCR; WB;,,G,
+LANGDL,215,75,Tablet Armchairs,IWS; LAC; VP; DVD; VCR; WB; CB;,,G,
+LANGDL,217,20,Tablet Armchairs,DVD; VCR; WB; TV; TP;,No LCD,G,
+LANGDL,218,75,Tablet Armchairs,IWS; LAC; VP; DVD; VCR; WB;,,G,
+LANGDL,221,20,Tablet Armchairs,DVD; VCR; TV; TP;,No LCD,G,
+LANGDL,223,75,Tablet Armchairs,IWS; LAC; VP; DVD; VCR; WB; M;,,G,
+LANGDL,227,48,Tablet Armchairs,IWS; LAC; VP; DVD; VCR; WB;,,G,
+LANGDL,229,48,Tablet Armchairs,IWS; LAC; VP; DVD; VCR; WB;,,G,
+LANGDL,231,48,Tablet Armchairs,IWS; LAC; VP; DVD; VCR; WB;,,G,
+LANGDL,300,122,Fixed/Tiered Tables,IWS; LAC; VP; DC; DVD; VCR; WT;,,G,
+LANGDL,301,48,Tablet Armchairs,IWS; LAC; VP; DVD; VCR; WB;,1-Psy,G,
+LANGDL,303,48,Tablet Armchairs,IWS; LAC; VP; DVD; VCR; WB; M;,1-Psy,G,
+LANGDL,305,50,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+LANGDL,315,40,Tablet Armchairs,IWS; LAC; VP; DVD; VCR; WB;,,G,
+LANGDL,317,40,Tablet Armchairs,IWS; LAC; VP; DVD; VCR; WB;,,G,
+LANGDL,318,48,Chairs & Tables,IWS; LAC; VP; DVD; VCR; WB; M;,,G,
+LANGDL,320,30,Tablet Armchairs,IWS; LAC; VP; DVD; VCR; WB;,,G,
+LANGDL,321,40,Accounting Desks,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+LANGDL,323,40,Accounting Desks,IWS; LAC; VP; DVD; VCR; WB;,,G,
+LANGDL,325,40,Accounting Desks,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+LANGDL,327,40,Accounting Desks,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+LANGDL,329,40,Accounting Desks,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+LANGDL,331,40,Accounting Desks,IWS; LAC; VP; DC; DVD; VCR; WB; CB;,,G,
+LANGDL,400,121,Fixed/Tiered Tables,IWS; LAC; VP; DC; DVD; VCR; WT;,,G,
+LANGDL,401,48,Tablet Armchairs,IWS; LAC; VP; DVD; VCR; WB;,,G,
+LANGDL,403,48,Tablet Armchairs,IWS; LAC; VP; DVD; VCR; WB; M;,,G,
+LANGDL,405,30,Computer Station,IWS; LAC; VP; DC; DVD;,1-CSC,G,
+LANGDL,415,31,Computer Station,IWS; LAC; VP; DC; DVD;,,G,
+LANGDL,417,31,Computer Station,IWS; LAC; VP; DC; DVD;,,G,
+LANGDL,418,45,Tablet Armchairs,IWS; LAC; VP; DC; DVD;,,G,
+LANGDL,420,44,Tablet Armchairs,IWS; LAC; VP; DC; DVD;,,G,
+LANGDL,421,48,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB; M;,1-Hist,G,
+LANGDL,423,48,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB; M;,1-Hist,G,
+LANGDL,425,48,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+LANGDL,427,48,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+LANGDL,429,48,Tablet Armchairs,IWS; LAC; VP; DVD; VCR; WB; M;,,G,
+LANGDL,431,48,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB; M;,,G,
+LANGDL,500,122,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT;,,G,
+LANGDL,501,48,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+LANGDL,503,48,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+LANGDL,505,20,Computer Classroom,,,P,POLS
+LANGDL,515,48,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB; M;,,G,
+LANGDL,517,48,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+LANGDL,518,57,Computer Station,IWS; LAC; VP; DC; DVD;,,G,
+LANGDL,521,48,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB; CB;,,G,
+LANGDL,523,48,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB; CB;,,G,
+LANGDL,525,48,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+LANGDL,527,48,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+LANGDL,529,48,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB; CB;,,G,
+LANGDL,531,48,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+LANGDL,600,120,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT;,,G,
+LANGDL,601,48,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+LANGDL,603,48,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+LANGDL,605,32,Computer Station,IWS; LAC; VP; DC; BR; DVD;,,G,
+LANGDL,615,48,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+LANGDL,617,48,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+LANGDL,618,45,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD;,,G,
+LANGDL,620,44,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD;,,G,
+LANGDL,621,48,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+LANGDL,623,48,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+LANGDL,625,48,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+LANGDL,627,48,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+LANGDL,629,48,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+LANGDL,631,48,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+LANGDL,700,120,Fixed/Tiered Tables,IWS; LAC; VP; DC; DVD; VCR; WT;,,G,
+LANGDL,701,16,Chairs & Tables,LAC; VP; CB;,,G,
+LANGDL,703,12,Chairs & Tables,LAC; VP; WB;,,G,
+LANGDL,705,16,Chairs & Tables,LAC; VP; WB;,,G,
+LANGDL,707,16,Chairs & Tables,LAC; VP; WB;,,G,
+LANGDL,709,16,Chairs & Tables,LAC; VP; WB;,,G,
+LANGDL,711,16,Chairs & Tables,LAC; VP; WB;,,G,
+LANGDL,715,16,Chairs & Tables,LAC; VP; WB;,,G,
+LANGDL,715A,24,Astronomy Lab,,,P,PHYS
+LANGDL,717,16,Chairs & Tables,LAC; VP; WB;,,G,
+LANGDL,719,16,Chairs & Tables,LAC; VP; WB;,,G,
+LANGDL,721,16,Chairs & Tables,LAC; VP; WB;,,G,
+LANGDL,721A,24,Astronomy Lab,,,P,PHYS
+LIBSO,102,212,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WT;,,G,
+NSC,160,50,Teaching Space,,,P,PHYS
+NSC,210,30,Lab,SWS,,P,PHYS
+NSC,218,80,Classroom,IWS,,P,CHEM
+NSC,222,30,Lab,SWS,,P,PHYS
+NSC,226,30,Lab,SWS,,P,PHYS
+NSC,234,24,Lab,SWS,,P,CHEM
+NSC,238,24,Lab,SWS,,P,CHEM
+NSC,240,15,Lab,IWS,,P,CHEM
+NSC,242,24,Lab,SWS,,P,CHEM
+NSC,246,24,Lab,SWS,,P,CHEM
+NSC,249,5,Lab,SWS,,P,CHEM
+NSC,256,20,Lab,IWS,,P,PHYS
+NSC,272,20,Conference Room,IWS,,P,PHYS
+NSC,310,26,Lab,IWS,,P,BIO
+NSC,318,26,Lab,IWS,,P,BIO
+NSC,320,26,Lab,IWS,,P,BIO
+NSC,324,26,Lab,IWS,,P,BIO
+NSC,330,26,Lab,IWS,,P,BIO
+NSC,348,24,Lab,,,P,CHEM
+NSC,429,40,Classroom,IWS,,P,CHEM
+NSC,528,1,Lab,,,P,CHEM
+NSC,538,1,Lab,,,P,CHEM
+PIED,141,200,Common MILE,,,P,MATH
+PSC,101,174,Fixed/Tiered Arm,IWS; LAC; VP; DC; BR; DVD; WB;,,G,
+PSC,124,50,Classroom,,,P,DOAS
+PSC,164,24,Lab,,,P,BIO
+PSC,165,24,Classroom,,,P,BIO
+PSC,169,91,Fixed/Tiered Tables,IWS; LAC; VP; DC; BR; DVD; WB;,R,G,
+PSC,171,50,Chairs & Tables,IWS; LAC; VP; DC; BR; DVD; WB;,R,G,
+PSC,230,78,Chairs & Tables,IWS; LAC; VP; DC; BR; DVD; WB;,R,G,
+PSC,233,48,Chairs & Tables,IWS; LAC; VP; DC; BR; DVD; WB;,R,G,
+PSC,255,85,Tablet Armchairs,IWS; LAC; VP; DC; BR; DVD; WB;,R,G,
+PSC,256,24,Lab,,,P,BIO
+PSC,260,24,Lab,,,P,BIO
+PSC,303,20,,,,P,CHEM
+PSC,311,15,Classroom,,,P,CHEM
+PSC,330,24,Classroom,,,P,BIO
+PSC,355,24,Lab,,,P,CHEM
+PSC,357,24,Classroom,,,P,CHEM
+PSC,360,24,Lab,,,P,CHEM
+PSC,362,49,Classroom,,,P,CHEM
+SPARKS,131,30,,,,P,GEOS
+SPARKS,133,30,,,,P,GEOS
+SPARKS,135,24,,,,P,GEOS
+SPARKS,137,30,,,,P,GEOS
+SPARKS,139,36,Computer Lab,SWS,,P,GEOS
+SPARKS,300,35,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,301,35,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,302,37,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,303,35,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,304,35,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,305,43,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,306,35,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,307,36,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,308,35,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,309,24,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,310,16,Chairs & Tables,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,311,51,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,320,22,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,321,30,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,322,30,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,324,30,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,326,35,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,327,46,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,328,33,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB; CB;,,G,
+SPARKS,329,30,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB; CB;,,G,
+SPARKS,330,36,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,343,35,Classroom,IWS; ELMO; DVD; VCR,,P,ANTH
+SPARKS,344,20,Seminar Classroom,TV; VCR; DVD,,P,ANTH
+SPARKS,420,21,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,421,30,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,422,30,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,423,30,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,424,30,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,425,30,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,426,31,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,427,60,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,428,30,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,430,31,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+SPARKS,432,30,Tablet Armchairs,IWS; LAC; VP; DC; DVD; VCR; WB;,,G,
+URBAN,100,116,Fixed/Tiered Tables,IWS; LAC; VP; DC; DVD; WT; LC;,,G,
+URBAN,1001,27,,SWS,1-Psy,G,
+URBAN,1167,20,Seminar Classroom,,,P,PSY
+URBAN,170,128,Fixed/Tiered Tables,IWS; LAC; VP; DC; DVD; WT; LC;,,G,
+URBAN,220,334,Auditorium,IWS; LAC; VP; DC; BR; DVD; WT;,,G,
+URBAN,301,83,Classroom,SWS,,P,MATH
+URBAN,302C,28,Classroom,SWS,,P,ENG

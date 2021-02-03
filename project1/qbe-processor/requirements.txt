@@ -1,0 +1,5 @@
+flask
+flask_graphql
+graphene
+flask-cors
+mysql-connector-python

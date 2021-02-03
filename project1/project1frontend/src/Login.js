@@ -17,8 +17,9 @@ function Login() {
     const fetchData = (e) => {
         e.preventDefault()
         // axios.get('/classrooms/?query={tables{tablename}}')
-        const queryString='tables(username:"'+username+'",password:"'+password+'",database:"'+database+'"){tablename}'
-        const url="/classrooms/?query={"+queryString+"}"
+        // const queryString='tables(username:"'+username+'",password:"'+password+'",database:"'+database+'"){tablename}'
+        const queryString='tables(user:"'+username+'",passwd:"'+password+'",database:"'+database+'")'
+        const url="http://127.0.0.1:5000/graphql?query={"+queryString+"}"
         // alert(queryString)
         // alert(url)
         axios.get(url)
@@ -33,7 +34,7 @@ function Login() {
         //     })
         .then((response)=>{
             setResponseData(response.data)
-            //alert(JSON.stringify(responseData.data.tables))
+            // alert(JSON.stringify(responseData.data.tables))
         })
         .catch((error) => {
             alert(error)
@@ -79,7 +80,7 @@ function Login() {
                   </tbody>
               </table>
           </header>
-          {(responseData && <DataBaseTables tables={responseData.data.tables}/>) || ""}
+          {(responseData && <DataBaseTables tables={responseData.data.tables} username={username} password={password} database={database}/>) || ""}
           {/* <DataBaseTables tables={responseData.data.tables}/> */}
         </div>
     )
